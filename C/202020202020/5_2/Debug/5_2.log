@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  5_2.cpp
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\5_2\5_2.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  5_2.vcxproj -> C:\Users\dnwoo\OneDrive\문서\Visual Studio 2015\Projects\ConsoleApplication2\Debug\5_2.exe
+  5_2.vcxproj -> C:\Users\dnwoo\OneDrive\문서\Visual Studio 2015\Projects\ConsoleApplication2\Debug\5_2.pdb (Full PDB)

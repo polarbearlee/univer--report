@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (3_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  3_1.cpp
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\201814001\3_1\3_1.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  3_1.vcxproj -> C:\Users\dnwoo\OneDrive\문서\Visual Studio 2015\Projects\201814001\Debug\3_1.exe
+  3_1.vcxproj -> C:\Users\dnwoo\OneDrive\문서\Visual Studio 2015\Projects\201814001\Debug\3_1.pdb (Full PDB)

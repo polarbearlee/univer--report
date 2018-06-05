@@ -1,0 +1,7 @@
+﻿  3_2.cpp
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication1\3_2.cpp(9): warning C4474: 'scanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication1\3_2.cpp(9): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication1\3_2.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  ConsoleApplication1.vcxproj -> c:\users\dnwoo\onedrive\문서\visual studio 2015\Projects\ConsoleApplication2\Debug\3_2.exe
+  ConsoleApplication1.vcxproj -> c:\users\dnwoo\onedrive\문서\visual studio 2015\Projects\ConsoleApplication2\Debug\3_2.pdb (Full PDB)

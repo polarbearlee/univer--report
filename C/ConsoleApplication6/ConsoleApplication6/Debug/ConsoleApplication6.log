@@ -1,0 +1,115 @@
+﻿  stdafx.cpp
+  ConsoleApplication6.cpp
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(13): warning C4068: 알 수 없는 pragma입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(9566): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(535): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(719): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(944): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(1264): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(1449): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(1674): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(1986): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(2171): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(2396): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(2708): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(2893): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(3118): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(3430): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(3615): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(3840): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(4152): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(4337): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(4562): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(4874): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(5059): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(5284): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(5596): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(5781): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(6006): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(6318): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(6503): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(6728): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(7040): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(7225): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(7450): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(7762): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(7947): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(8172): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(8498): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(8720): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(8731): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(8796): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(8870): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(8971): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(9171): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(9327): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(9552): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(9575): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(9628): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(9876): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(10009): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(65): warning C4101: 'savegold' :참조되지 않은 지역 변수입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(45): warning C4101: 'attack' :참조되지 않은 지역 변수입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(63): warning C4101: 'saveweapon' :참조되지 않은 지역 변수입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(17): warning C4101: 'mlevel' :참조되지 않은 지역 변수입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(26): warning C4101: 'mobdefense' :참조되지 않은 지역 변수입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(55): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(35): warning C4101: 'item' :참조되지 않은 지역 변수입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(53): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(58): warning C4101: 'randa' :참조되지 않은 지역 변수입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(25): warning C4101: 'defense' :참조되지 않은 지역 변수입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(50): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(64): warning C4101: 'savearmor' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  ConsoleApplication6.vcxproj -> c:\users\dnwoo\onedrive\문서\visual studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> c:\users\dnwoo\onedrive\문서\visual studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.pdb (Full PDB)

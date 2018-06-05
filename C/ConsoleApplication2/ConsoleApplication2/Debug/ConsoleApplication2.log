@@ -1,0 +1,30 @@
+﻿  stdafx.cpp
+  ConsoleApplication2.cpp
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(95): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(169): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(177): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(183): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(186): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(333): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(334): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(336): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(373): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(618): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(632): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(633): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\dnwoo\onedrive\문서\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(655): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  ConsoleApplication2.vcxproj -> c:\users\dnwoo\onedrive\문서\visual studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> c:\users\dnwoo\onedrive\문서\visual studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
