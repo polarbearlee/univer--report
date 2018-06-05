@@ -1,0 +1,10 @@
+처음: cd /mnt/c/Users
+확인: ls
+클론 만들기 : git clone 복붙
+cd 뒤로가기 : cd ..
+가지 확인: git branch
+가지 치기: git branch 가지명
+가지 옮겨 타기: git checkout 가지명
+가지 치면서 옮겨 타기: git checkout -b 가지명
+가지 병합시기키: git merge 가지명 //병합 하고 싶은 가지에 들어가서 합병할 가지를 입력해야함 
+예) master ---> test1 하려면 마스터 가지에 있어야 함
