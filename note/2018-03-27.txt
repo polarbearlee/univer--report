@@ -1,0 +1,103 @@
+/*
+수업 전 잠깐 코딩
+
+#include "stdafx.h"
+
+int main(void)
+{
+	int num1;
+	printf("3+4=  \n");
+	scanf("%d", &num1);
+	if (num1 == 7)
+		printf("정답입니다!\n");
+	else
+		printf("오답입니다\n");
+
+    return 0;
+}
+*/
+
+/*
+문제1(하나의 정수를 입력받아 제곱, 세제곱, 네제곱을 출력해 주는 코드)
+
+#include "stdafx.h"
+
+int main(void)
+{
+	int num1;
+	printf("하나의 정수 입력: ");
+	scanf("%d", &num1);
+
+	printf("제곱: %d \n", num1*num1);
+	printf("세제곱: %d \n", num1*num1*num1);
+	printf("네제곱: %d \n", num1*num1*num1*num1);
+
+    return 0;
+}
+*/
+
+/*
+문제 2 (간단한 구구단 프로그램)(while문 예습)
+
+#include "stdafx.h"
+
+int main(void)
+{
+	int num1 = 0, num2 = 1;
+	printf("하나의 정수 입력: ");
+	scanf("%d", &num1);
+
+	while(num2 < 10)
+	{
+		printf("%dX%d=%d \n", num1, num2, num1*num2);
+		num2++;
+	}
+
+    return 0;
+}
+*/
+
+/*
+8진수와 16진수
+
+#include "stdafx.h"
+
+int main(void)
+{
+	int num1 = 0XA53F, num2 = 0X46;
+	int num3 = 032, num4 = 024;
+
+	printf("a = %d \n", num1);
+	printf("d = %d \n", num2);
+	printf("g = %d \n", num3);
+	printf("h = %d \n", num4);
+
+	return 0;
+
+	
+}
+*/
+
+/*
+실수 계산의 오차에 대한 실습
+#include "stdafx.h"
+
+int main(void)
+{
+	int i;
+	float num = 0.0;
+	for (i = 0; i < 100; i++)
+		num += 0.1;
+
+
+
+	printf("0.1을 100번 더한 결과:%f \n", num);
+	return 0;
+
+	
+}
+*/
+
+/*
+
+

@@ -1,0 +1,168 @@
+// 2018 - 03 - 22 목요일
+
+
+/*
+관계연산자 실습
+
+관계연산자는 대소, 동등의 관계를 따질 때 쓰는 연산자이다.
+자세한 내용은 교과서 03-3 표를 참조
+
+#include "stdafx.h"
+
+
+int main(void)
+{
+	int num1 = 10;
+	int num2 = 12;
+	int result1, result2, result3;
+
+	result1 = (num1 == num2);
+	result2 = (num1 <= num2);
+	result3 = (num1 > num2);
+
+	printf("result1: %d \n", result1);
+	printf("result2: %d \n", result2);
+	printf("result3: %d \n", result3);
+    return 0;
+}
+
+*/
+
+/*
+논리연산자 실습
+
+논리 연산자는 
+
+    && 라고 하는 and게이트의 기능을 가진 기호
+    || 라고 하는 or게이트의 기능을 가진 기호
+    ! 라고 하는 not 게이트의 기능을 하는 기호로 이루어져 있다.
+
+ 용법은 예를들어 res1 = ( a == 1 && b ==2); 와 같이 사용한다.
+
+#include "stdafx.h"
+
+
+int main(void)
+{
+	int num1 = 10;
+	int num2 = 12;
+	int result1, result2, result3;
+
+	result1 = (num1 == 10 && num2 == 12);
+	result2 = (num1 < 12 || num2>12);
+	result3 = (!num1);
+
+	printf("result1: %d \n", result1);
+	printf("result2: %d \n", result2);
+	printf("result3: %d \n", result3);
+    return 0;
+}
+*/
+
+/*
+콤마 연산자
+
+콤마 연산자는 둘이상의 변수를 동시에 선언 하거나, 둘이사의 문장을 한 행에 삽입하는 경우에 사용되는 연산자이다.
+
+뿐만 아니라, 둘 이상의 인자를 함수로 전달할 때도 인자의 구분을 목적으로 사용된다.
+
+#include "stdafx.h"
+
+
+int main(void)
+{
+	int num1 = 1, num2 = 2;
+	printf("hello "), printf("world! \n");
+	num1++, num2++;
+	printf("%d ", num1), printf("%d ", num2), printf("\n");
+	return 0;
+}
+*/
+
+/*
+연산자의 우선순위와 결합 방향
+
+괄호는 중복해서 사용이 가능하다. 실행 순서는 가장 많이 묶인 코드부터 차례로 진행된다.
+
+자세한 내용은 교과서의 표 03-5 참조.
+*/
+
+/*
+키보드로부터의 정수입력을 위한 scanf 함수의 호출
+
+scanf 함수를 이용하면 키보드로 부터 다양한 형태의 데이터를 입력 받릉 수 있다.
+
+#include "stdafx.h"
+
+
+int main(void)
+{
+	int result;
+	int num1, num2;
+
+	printf("정수 one: ");
+	scanf("%d", &num1);  // 첫 번째 정수 입력
+	printf("정수 two: ");
+	scanf("%d", &num2);  // 두 번째 정수 입력
+
+	result = num1 + num2;
+	printf("%d + %d = %d \n", num1, num2, result);
+	return 0;
+}
+
+본 코드는 간단한 정수의 덧셈을 하게 해주는 소스 코드이다.
+자세한 내용은 교과서의 그림03-6 참조
+*/
+
+/*
+입력의 형태를 다양하게 지정할 수 있다. 
+ 한번의 scanf 함수호출을 통해서 여러 개의 데이터를 다양한 형태로 입력 받는 것이 가능하다.
+
+#include "stdafx.h"
+
+
+int main(void)
+{
+	int result;
+	int num1, num2, num3;
+
+	printf("세 개의 정수 입력:  ");
+	scanf("%d %d %d", &num1, &num2, &num3);
+
+	result = num1 + num2 + num3;
+	printf("%d + %d + %d = %d \n", num1, num2, num3, result);
+	return 0;
+}
+*/
+
+/*
+문제 1
+
+#include "stdafx.h"
+
+
+int main(void)
+{
+	int result, result2, result3, result4, result5;
+	int num1, num2;
+
+	printf("정수 one: ");
+	scanf("%d", &num1);  // 첫 번째 정수 입력
+	printf("정수 two: ");
+	scanf("%d", &num2);  // 두 번째 정수 입력
+
+	result = num1 + num2;
+	result2 = num1 * num2;
+	result3 = num1 / num2;
+	result4 = num1 - num2;
+	result5 = num1 % num2;
+
+	printf("\n%d + %d = %d \n", num1, num2, result);
+	printf("%d * %d = %d \n", num1, num2, result2);
+	printf("%d / %d = %d \n", num1, num2, result3);
+	printf("%d - %d = %d \n", num1, num2, result4);
+	printf("%d %% %d = %d \n", num1, num2, result5);
+	printf("%d / %d의 몫은 %d, 나머지는 %d 이다.\n", num1, num2, result3, result5);
+	return 0;
+}
+*/

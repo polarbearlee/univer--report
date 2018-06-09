@@ -1,0 +1,108 @@
+
+/*
+오늘 만들어본 곱셈 계산기
+
+#include "stdafx.h"
+
+int a, b, c;
+
+int main(void)
+{
+	printf("원하는 두 수 입력: ");
+	scanf("%d %d", &a, &b);
+
+	c = a * b;
+
+	printf("답은 %d 입니다!\n", c);
+    return 0;
+}
+*/
+// %연산은 mod 연산이라고 한다. 나머지를 알려주는 연산 기호임.
+/*
+다양한 연산자 실습
+#include "stdafx.h"
+
+int main(void)
+{
+	int num1 = 9, num2 = 2;
+	printf("%d+%d = %d  \n", num1, num2, num1 + num2);
+	printf("%d-%d = %d  \n", num1, num2, num1 - num2);
+	printf("%d*%d = %d  \n", num1, num2, num1 * num2);
+	printf("%d/%d = %d  \n", num1, num2, num1 / num2);
+	printf("%d%%%d = %d  \n", num1, num2, num1 % num2); // %를 서식문자가 아닌 기호로써 표시하고 싶으면 %% 와 같이 두번 표기 하면 된다.
+	return 0;
+}
+*/
+
+/*
+다양한 연산자 실습 2
+
+#include "stdafx.h"
+
+int main(void)
+{
+	int num1 = 9, num2 = 2;
+	printf("%d+%d = %d  \n", num1, num2, num1 + num2);
+	printf("%d-%d = %d  \n", num1, num2, num1 - num2);
+	printf("%d*%d = %d  \n", num1, num2, num1 * num2);
+	printf("%d/%d = %f  \n", num1, num2, num1/((float)num2)); // 소수를 표기하기 위해 답을 출력 하는 부분을 %d에서 %f로 바꾸어 주었고, num2를 float형태로 바꿔 주었다.
+	printf("%d%%%d = %d  \n", num1, num2, num1 % num2); // %를 서식문자가 아닌 기호로써 표시하고 싶으면 %% 와 같이 두번 표기 하면 된다.
+	return 0;
+}
+*/
+
+/*
+복합 대입 연산자 실습
+#include "stdafx.h"
+
+int main(void)
+{
+	int num1 = 9, num2 = 2, num3 = 6;
+	num1 += 3;
+	num2 *= 4;
+	num3 /= 2;
+	printf("result: %d, %d, %d \n", num1, num2, num3);
+	return 0;
+}
+*/
+
+
+/*
+증가, 감소 연산자 실습
+
+#include "stdafx.h"
+
+int main(void)
+{
+	int num1 = 12, num2 = 12;
+	printf("num1: %d \n", num1);
+	printf("num1++: %d \n", num1++); // 전위 증가 (출력을 먼저 하고 연산한다.)
+	printf("num1: %d \n\n", num1);
+
+	printf("num2: %d \n", num2);
+	printf("++num2: %d \n", ++num2); // 후위 증가 (연산을 먼저 하고 출력한다.)
+	printf("num2: %d \n", num2);
+
+}
+*/
+
+/*
+증가, 감소 연산자 실습2
+
+#include "stdafx.h"
+
+int main(void)
+{
+	int num1 = 12, num2 = 12;
+	printf("num1: %d \n", num1);
+	printf("num1--: %d \n", num1--); // 전위 감소 (출력을 먼저 하고 연산한다.)
+	printf("num1: %d \n\n", num1);
+
+	printf("num2: %d \n", num2);
+	printf("--num2: %d \n", --num2); // 후위 감소 (연산을 먼저 하고 출력한다.)
+	printf("num2: %d \n", num2);
+
+}
+*/
+
+/*
